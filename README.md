@@ -35,9 +35,9 @@
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| Online Courses API | REST API for managing online courses: students, groups and enrollments. Spins up with a single Docker Compose command. | Python, Docker |
-| EntertainmentTGBot | Multifunctional async Telegram bot: mini-games, media sending and smooth navigation via reply & inline keyboards. | Python, aiogram 3 |
-| YT Downloader | Desktop GUI app for downloading YouTube videos and playlists. Quality/codec selection, cookie auth and multithreaded downloads with a responsive UI. | Python, PyQt5, yt-dlp |
+| [Online Courses API](https://github.com/kluhu541/online-courses) | REST API for managing online courses: students, groups and enrollments. Spins up with a single Docker Compose command. | Python, Docker |
+| [EntertainmentTGBot](https://github.com/kluhu541/EntertainmentTGBot) | Multifunctional async Telegram bot: mini-games, media sending and smooth navigation via reply & inline keyboards. | Python, aiogram 3 |
+| [YT Downloader](https://github.com/kluhu541/yt-downloader) | Desktop GUI app for downloading YouTube videos and playlists. Quality/codec selection, cookie auth and multithreaded downloads with a responsive UI. | Python, PyQt5, yt-dlp |
 
 ---
 
@@ -54,6 +54,6 @@
 
 | Проект | Описание | Стек |
 |--------|----------|------|
-| [Online Courses API](https://github.com/kluhu541/online-courses-api) | REST API для управления онлайн-курсами: студенты, группы и зачисления. Разворачивается одной командой через Docker Compose. | Python, Docker |
+| [Online Courses API](https://github.com/kluhu541/online-courses) | REST API для управления онлайн-курсами: студенты, группы и зачисления. Разворачивается одной командой через Docker Compose. | Python, Docker |
 | [EntertainmentTGBot](https://github.com/kluhu541/EntertainmentTGBot) | Многофункциональный асинхронный Telegram-бот: мини-игры, отправка медиа и удобная навигация через reply- и inline-клавиатуры. | Python, aiogram 3 |
 | [YT Downloader](https://github.com/kluhu541/yt-downloader) | Графическое приложение для скачивания видео и плейлистов с YouTube. Выбор качества и кодека, авторизация через cookies, многопоточная загрузка без зависания интерфейса. | Python, PyQt5, yt-dlp |
